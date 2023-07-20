@@ -1,2 +1,3 @@
 - [How principled coders outperform the competition](https://youtu.be/q1qKv5TBaOA)
 - [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://youtu.be/rtmFCcjEgEw)
+- [What does larger scale software development look like?](https://youtu.be/Dl-BdxNRUqs)
