@@ -1,0 +1,1 @@
+- [What does larger scale software development look like?](https://youtu.be/Dl-BdxNRUqs)
