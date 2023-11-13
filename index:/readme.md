@@ -1,0 +1,1 @@
+- [Aider UPDATED: The BEST Personal AI Coding Assistant! GPT-Engineer (Installation Guide)](https://youtu.be/hWezAgvYPt8)
