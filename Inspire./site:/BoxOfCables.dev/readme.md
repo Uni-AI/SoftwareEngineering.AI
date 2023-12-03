@@ -2,6 +2,8 @@
 site: https://boxofcables.dev/
 social:
 
+# other namespace: /Unicorn-OS
+
 # Favorite:
 - https://boxofcables.dev/toxicity-in-linux-and-open-source/
 - https://boxofcables.dev/creating-a-linux-desktop-app-in-visual-studio-using-avalonia/
