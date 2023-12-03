@@ -7,3 +7,4 @@ Home: https://boxofcables.dev/
 # AI:
 - https://boxofcables.dev/the-github-copilot-lawsuit-threatens-open-source-and-human-progress-1/
 - https://boxofcables.dev/microsoft-and-open-source-an-unofficial-timeline/
+- https://boxofcables.dev/determined-to-learn-more/ relation: (project: Determined AI)
