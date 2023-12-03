@@ -1,4 +1,6 @@
-Home: https://boxofcables.dev/
+# Home:
+site: https://boxofcables.dev/
+social:
 
 # Favorite:
 - https://boxofcables.dev/toxicity-in-linux-and-open-source/
@@ -13,3 +15,14 @@ Home: https://boxofcables.dev/
 
 # Relation:
 - https://www.determined.ai/
+
+## Microsoft
+- https://boxofcables.dev/microsoft-and-open-source-an-unofficial-timeline/
+
+## Kubernetes
+- https://boxofcables.dev/deploying-rancher-on-k3s-on-wsl2/
+
+## Virtualization:
+- https://boxofcables.dev/hyper-v-server-2019/
+- https://boxofcables.dev/accelerated-kvm-guests-on-wsl-2/
+- https://boxofcables.dev/no-microsoft-is-not-rebasing-windows-to-linux/
