@@ -2,3 +2,4 @@
 - [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://youtu.be/rtmFCcjEgEw)
 - [What does larger scale software development look like?](https://youtu.be/Dl-BdxNRUqs)
 - [AI Expert Explains Future Programming Jobs… and Python](https://youtu.be/aN3-Yp_28rM)
+- [Why AI Will Make Programming Obsolete 😭](https://youtu.be/ZV6Sz42l0hY)
