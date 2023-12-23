@@ -1,1 +1,2 @@
 - [Finally proven: GitHub Copilot steals code // English](https://youtu.be/lyPD7F6e5W4)
+- [GitHub Copilot Just Changed the Game](https://youtu.be/IavOJI5OV7g)
